@@ -28,7 +28,7 @@ All of the code is organized into folders. For example, Chapter02.
 The code will look like the following:
 ```
 Calendar = CALENDAR( DATE(2017 ,1 ,1), DATE(2019 ,12 ,31)
-)
+
 ```
 
 **Following is what you need for this book:**
