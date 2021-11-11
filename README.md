@@ -44,8 +44,7 @@ With the following software and hardware list you can run all code files present
 | 2        | Pwer BI Service         | Windows |
 | 3        | Data Gateway           | Windows |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781801811958_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801811958_ColorImages.pdf).
 
 ## Code in Action
 
@@ -64,5 +63,5 @@ is a Microsoft MVP for Data Platform and an active member of the Columbus Ohio I
 
 
 ## Other books by the authors
-* [DAX Cookbook](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
+* [DAX Cookbook](https://www.packtpub.com/product/dax-cookbook/9781839217074)
 * [Learn Power BI](https://www.packtpub.com/free-ebook/learn-power-bi/9781838644482)
