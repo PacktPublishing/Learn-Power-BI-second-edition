@@ -21,8 +21,7 @@
 			{"*":
 				[{
 					"fontSize":14,
-					"fontFamily":"Segoe UI",
-					"color":{"solid":{}}
+					"fontFamily":"Segoe UI"
 				}],
 				"general":[{"responsive":true}]
 			}
